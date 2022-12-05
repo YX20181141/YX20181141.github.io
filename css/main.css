@@ -953,6 +953,7 @@ pre code {
   flex-shrink: 0;
   padding: 0 10px;
   border-radius: 18.8px 18.8px 0 0;
+  margin-top: 12px;
 }
 .use-motion .column,
 .use-motion .site-brand-container .toggle {
@@ -961,6 +962,7 @@ pre code {
 .site-meta {
   flex-grow: 1;
   text-align: center;
+  margin-top: 47px;
 }
 @media (max-width: 767px) {
   .site-meta {
@@ -1535,6 +1537,7 @@ pre code {
 .use-motion .pagination,
 .use-motion .comments {
   visibility: hidden;
+  margin-top: 12px;
 }
 .use-motion .post-header {
   visibility: hidden;
